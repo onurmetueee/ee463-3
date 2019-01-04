@@ -1,0 +1,10 @@
+TP S61088  (high efficiency)
+
+L Ipp =8.204A
+Vout pp =0.064
+Eff=95.8
+Tj=53.3C
+Mode= Boost CCM
+Footprint=142mm2
+Bom Cost=4.03$
+
